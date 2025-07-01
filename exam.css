@@ -1,0 +1,80 @@
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: green;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    header img {
+      margin: 10px 0;
+    }
+
+    .subtitle {
+      font-size: 14px;
+      color: white;
+      margin-top: -10px;
+    }
+
+    .contact {
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+
+    .contact input, .contact textarea {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0;
+    }
+
+    .contact button {
+      padding: 6px 12px;
+      background-color: green;
+      color: white;
+      border: none;
+    }
+
+    h2 {
+      margin: 20px;
+    }
+
+    .team {
+      padding: 20px;
+    }
+
+    .team img {
+      width: 300px;
+      height: auto;
+      display: block;
+      margin-bottom: 15px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+
+    .map {
+      margin: 20px 0;
+    }
+
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .mt-20 {
+        margin-top: 20px;
+    }
